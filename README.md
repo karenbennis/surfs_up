@@ -13,10 +13,10 @@ Specifically, investors had expressed that they would feel comfortable investing
 The methodology, results, and analysis are described in the *Summary* section. 
 
 ## Resources
-Data Source: hawaii.sqlite
-Database: SQLite 3.31
-Languages: Python 3.7.6
-Software: Jupyter Lab 1.2.6, SQLAlchemy 1.3
+* Data Source: hawaii.sqlite
+* Database: SQLite 3.31
+* Languages: Python 3.7.6
+* Software: Jupyter Lab 1.2.6, SQLAlchemy 1.3
 
 ## Summary
 ### Methodology
