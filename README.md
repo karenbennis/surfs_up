@@ -18,7 +18,6 @@ Database: SQLite 3.31
 Languages: Python 3.7.6
 Software: Jupyter Lab 1.2.6, SQLAlchemy 1.3
 
-
 ## Summary
 ### Methodology
 The following steps were followed to complete the analysis on the weather data:
